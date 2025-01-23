@@ -5,5 +5,5 @@
 
 ### Dataset is taken from Kaggle
 ### Retail Store Inventory Forecasting Dataset
-### Anirudh Singh Chauhan 
+### by Anirudh Singh Chauhan 
 <a href="https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset">DATASET LINK</a>
