@@ -8,7 +8,7 @@ import plotly.express as px
 def run():
 
     lg ="the-10-best-minecraft-memes-from-reddit_kgh3.2560.webp"
-    st.image(lg, caption="Inventory management and demand forecasting", width=1000)
+    st.image(lg, caption="Inventory management and demand forecasting")
 
 
     st.title('Exploratory Data Analysis (EDA)')
