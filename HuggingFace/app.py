@@ -1,6 +1,6 @@
 import streamlit as st
-import eda 
-import prediction
+import HuggingFace.eda as eda 
+import HuggingFace.prediction as prediction
 #immediately runs both in that order, so we cant do it right away but modular
 
 #navigation
