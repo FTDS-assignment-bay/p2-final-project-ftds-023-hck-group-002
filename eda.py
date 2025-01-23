@@ -41,8 +41,9 @@ def run():
 
     st.write('''
     This plot highlights the most significant features contributing to the demand forecasting model. 
-    Inventory levels dominate in importance, followed by price, unit orders, competitor pricing, and discounts.
-    ''')
+    Inventory levels dominate in importance, followed by price, competitor pricing, unit orders, and discounts.
+    The reason why inventory level is the highest is because it follows the units sold 
+                    ''')
 
 #checks whether to run if not in main
 if __name__ == '__main__':
