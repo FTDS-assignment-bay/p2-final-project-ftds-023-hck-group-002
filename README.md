@@ -2,3 +2,8 @@
 
 # Final Project Group 2
 ## Stock Wise
+
+### Dataset is taken from Kaggle
+### Retail Store Inventory Forecasting Dataset
+### Anirudh Singh Chauhan 
+<a href="https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset">DATASET LINK</a>
